@@ -25,3 +25,23 @@ Simple TCP/IP implemented on an FPGA (Field Programmable Gate Array) for the pur
 * For other related projects, please refer to [here](https://github.com/BeeBeansTechnologies).
 
 ![SiTCP](sitcp.png)
+
+
+## History
+
+#### 2022-06-07 Ver.1.0.1
+
+* "Kc705sitcp.v"
+     * Corrected the port name.
+     * Instantiated RBCP module.
+     * Added DIP switch assignment.
+     * Corrected clerical error.
+* "RBCP.v"
+     * New addition.
+* "Kc705sitcp.xdc"
+     * Corrected the port name.
+     * Added constraints.
+
+#### 2018-06-21 Ver.1.0.0
+
+* First release.
